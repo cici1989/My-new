@@ -71,3 +71,8 @@ git push -u origin master
 * 3、谷物
   * 大米
   * 小麦
+##测图片
+语法如下：
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
