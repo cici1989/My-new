@@ -74,6 +74,6 @@ git push -u origin master
 ## 测图片
 
 语法如下：
->! [Alt text](/path/to/img.jpg)
+>! [Alt text] (/path/to/img.jpg)
 
->! [Alt text](/path/to/img.jpg "Optional title")
+>! [Alt text] (/path/to/img.jpg "Optional title")
